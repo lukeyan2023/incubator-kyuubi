@@ -21,3 +21,4 @@ Command Line Interface(CLI)s
 
     kyuubi_beeline
     hive_beeline
+    kyuubi_batch
